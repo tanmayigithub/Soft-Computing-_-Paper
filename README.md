@@ -1,0 +1,1 @@
+"Visual Transformers: Token-based Image Representation and Processing for Computer Vision" introduces a major shift in how deep learning models handle images by replacing standard convolutional operations with transformer-based architectures that process images as sequences of visual tokens rather than pixel grids
